@@ -10,9 +10,6 @@ Python Data Analysis in Action: Forbes Global 2000 Series
 
 本公众号秉承“**让数据更有价值**”的理念，主要分享数据相关的内容，包括数据分析，挖掘，可视化，机器学习，深度学习等。
 
-<img src="./photo/foot.jpg" width="400"/>
-
-
 # 福布斯系列文章 | 微信公众号发布
 
 **Python数据分析项目实战：福布斯系列**
@@ -32,6 +29,9 @@ Python Data Analysis in Action: Forbes Global 2000 Series
 | 8 | [Pandas数据处理实战：福布斯全球上市企业排行榜数据整理](http://mp.weixin.qq.com/s?__biz=MzI2NjY5NzI0NA==&mid=2247483960&idx=1&sn=4f3bc2b8f7dcbe7883c1493440c6daa4&chksm=ea8b6d4bddfce45d2c0d2de3561a7728b3b39b5914c2752ac9d255bbef95c4b995dd45892c97&scene=21#wechat_redirect) | 文章对应的数据文件为“./data/data_2016_part.csv” |
 
 
+
 # 捐赠支持
 
-<img src="./photo/wechat-pay.png" width="400"/>
+| <center>遇见，是缘</center> | <center>欢迎关注</center> |
+| ---------------------------------------- | ---------------------------------------- |
+| <img src="./photo/wechat-pay.png" width="400"/> | <img src="./photo/foot.jpg" width="400"/> |
