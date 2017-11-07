@@ -4,13 +4,17 @@ Python数据分析项目实战：福布斯系列
 
 Python Data Analysis in Action: Forbes Global 2000 Series
 
-# 关注微信公众号
+## 个人官网
+
+欢迎访问个人官网： [http://liyangbit.com](http://liyangbit.com)
+
+## 关注微信公众号
 
 欢迎关注个人微信公众号“**Python数据之道**”（ID：**PyDataRoad** ）
 
 本公众号秉承“**让数据更有价值**”的理念，主要分享数据相关的内容，包括数据分析，挖掘，可视化，机器学习，深度学习等。
 
-# 福布斯系列文章 | 微信公众号发布
+## 福布斯系列文章 | 微信公众号发布
 
 **Python数据分析项目实战：福布斯系列**
 
@@ -31,7 +35,7 @@ Python Data Analysis in Action: Forbes Global 2000 Series
 
 
 
-# 捐赠支持
+## 捐赠支持
 
 | <center>遇见，是缘</center> | <center>欢迎关注</center> |
 | ---------------------------------------- | ---------------------------------------- |
