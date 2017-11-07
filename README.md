@@ -8,7 +8,7 @@ Python Data Analysis in Action: Forbes Global 2000 Series
 
 欢迎访问个人官网：
 <!-- [http://liyangbit.com](http://liyangbit.com)  -->
-<a href="http://liyangbit.com" target="\_blank"> http://liyangbit.com </a>
+<a href="http://liyangbit.com" target="blank"> http://liyangbit.com </a>
 
 ## 关注微信公众号
 
