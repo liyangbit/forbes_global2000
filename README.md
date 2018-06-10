@@ -10,13 +10,13 @@ Python Data Analysis in Action: Forbes Global 2000 Series
 <!-- [http://liyangbit.com](http://liyangbit.com)  -->
 <a href="http://liyangbit.com" target="blank"> http://liyangbit.com </a>
 
-## 关注微信公众号
+## 微信公众号
 
-欢迎关注个人微信公众号“**Python数据之道**”（ID：**PyDataRoad** ）
+欢迎关注个人微信公众号“**Python数据之道**”（公号ID：**PyDataRoad** ）。
 
-本公众号秉承“**让数据更有价值**”的理念，主要分享数据相关的内容，包括数据分析，挖掘，可视化，机器学习，深度学习等。
+>请大家点点微信公众号文章底部广告支持，感谢！
 
-## 福布斯系列文章 | 微信公众号发布
+## 福布斯系列文章
 
 **Python数据分析项目实战：福布斯系列**
 
@@ -41,4 +41,4 @@ Python Data Analysis in Action: Forbes Global 2000 Series
 
 | <center>遇见，是缘</center> | <center>欢迎关注</center> |
 | ---------------------------------------- | ---------------------------------------- |
-| <img src="./photo/wechat-pay.png" width="400"/> | <img src="./photo/foot.jpg" width="400"/> |
+| <img src="./photo/qr-geizan.png" width="400"/> | <img src="./photo/foot.jpg" width="400"/> |
